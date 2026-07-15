@@ -1,2 +1,2 @@
 # aucbm-site
-AUCBM main website
+This is AUCBM main website
